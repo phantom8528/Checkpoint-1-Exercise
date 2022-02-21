@@ -71,6 +71,9 @@ Git revert maintains the history of changes made, while git reset wipes it out c
 
 10) What's the key difference between Python lists and tuples?
 
+A lists can be manipulated by adding, removing, and replacing items/values. 
+A tuple can't be amended once it has been created.
+
 
 11) What can I do to know where I am within my file system?
 

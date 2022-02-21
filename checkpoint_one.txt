@@ -139,6 +139,11 @@ It is also repsponsible for the management and storage of data.
 
 21) What are 3 way to create a Python string?
 
+Method 1: 'Single quotes on both sides"
+Method 2: "Double quotes on both sides"
+Method 3: """Triple quotes on both sies""", which results in a multiline string
+
+
 
 22) What are 2 types of number data types in Python? Provide an example.
 

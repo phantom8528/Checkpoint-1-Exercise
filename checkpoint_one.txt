@@ -34,6 +34,11 @@ this will allow the computer to understand that this is the variable that I'm tr
 
 6) What can I do to prevent certain files and directories from being tracked by git?
 
+We can do this by creating a .gitignore file inside to the directory that is connected to the remote 
+repository. Once the .gitignore file is created, we open it up, and type the names of the files that we don't 
+want to be shared. However, in order for this to work, the files in question, and the .gitignore file must share the 
+same directory location. 
+
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
 

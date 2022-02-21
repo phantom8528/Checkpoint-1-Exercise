@@ -122,6 +122,8 @@ The computer needs a compiler in order to translate from backend code to machine
 
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
 
+Index 0 = Ron, Index 1 = Troy, and Index 2 = Martha
+
 
 19) What does frontend / client side mean?
 

@@ -112,6 +112,8 @@ Booleans
 
 16) What language does your computer understand?
 
+A computer only understands 1's and 0's. Otherwise known as Binary. 
+
 
 17) What do we need in order for your computer to make use of programming languages?
 

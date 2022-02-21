@@ -147,7 +147,8 @@ Method 3: """Triple quotes on both sies""", which results in a multiline string
 
 22) What are 2 types of number data types in Python? Provide an example.
 
-
+Integer - whole number (ex. 1, 2, 3, 300400)
+Float - A whole number with a decimal point (ex. 2.3, 45.3, 2838.89)
 
 
 23) Are we able to add two strings together? How?

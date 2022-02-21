@@ -81,6 +81,19 @@ type in the command "pwd" to get a detailed path, or type "cd ." for the directo
 
 12) Describe the anatomy of a Python dictionary and create one below.
 
+A python dictionay is used to store key: value pairs. 
+Ex. 
+
+gabrielFirstDict = {
+	"Name": "Gabriel Jefferson",
+    "DOB": "NOT GIVEN",
+    "Favorite Color": "Blue"
+    }
+    
+print(gabrielFirstDict)
+
+print("Gabriel's Full Name is: " + gabrielFirstDict["Name"])
+
 
 13) What type of values can be in a Python dictionary?
 

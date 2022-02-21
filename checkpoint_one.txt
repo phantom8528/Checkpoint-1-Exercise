@@ -2,6 +2,9 @@ THIS IS THE FIRST COMMIT
 
 1) What are comments?
 
+Comments are lines of code that are designed not be read by the computer. How this is achieved 
+varies, depending on the program that you're using.
+
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 

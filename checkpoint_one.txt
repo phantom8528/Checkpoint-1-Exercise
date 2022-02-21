@@ -117,6 +117,8 @@ A computer only understands 1's and 0's. Otherwise known as Binary.
 
 17) What do we need in order for your computer to make use of programming languages?
 
+The computer needs a compiler in order to translate from backend code to machine code.
+
 
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
 

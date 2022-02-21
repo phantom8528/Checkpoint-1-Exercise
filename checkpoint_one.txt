@@ -102,6 +102,8 @@ Values inside a dictionary can be of any data type.
 
 14) What type of values can be in a Python list?
 
+A python list can store any type of value.
+
 
 15) What data type are True and False?
 

@@ -42,6 +42,22 @@ same directory location.
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
 
+One Method is The While Loop: 
+Ex: In this example, as long as i equals 6, it will keep printing
+
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+
+Another method is the for loop, which is used iterating over a sequence
+Ex: As long as x equals an item in the sequence, the code will print
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+
+
 
 8) When saving a value for later use what type of operator do we use?
 

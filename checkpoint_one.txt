@@ -77,6 +77,7 @@ A tuple can't be amended once it has been created.
 
 11) What can I do to know where I am within my file system?
 
+type in the command "pwd" to get a detailed path, or type "cd ." for the directory that you're currently in.
 
 12) Describe the anatomy of a Python dictionary and create one below.
 

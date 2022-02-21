@@ -153,6 +153,8 @@ Floats - Integers with decimal points (ex. 1.3, 4.5, 324.5)
 
 23) Are we able to add two strings together? How?
 
+print ("Hello" + " " + "World")
+
 
 24) What commands would you use to create the following file structure? (write every command line by line):
     

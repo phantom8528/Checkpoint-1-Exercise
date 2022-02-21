@@ -133,6 +133,9 @@ where its located on a page, and how it looks.
 
 20) What does backend / server side mean?
 
+The part of an application responsible for talking to the computer via computer code. 
+It is also repsponsible for the management and storage of data.
+
 
 21) What are 3 way to create a Python string?
 

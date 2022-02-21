@@ -19,6 +19,8 @@ Enter the following: python3 app.py
 
 4) Demonstrate how I can tell a Python program to display something in the command line.
 
+By using the print() function. 
+
 
 5) What can we use to save a value for later use in our code? Provide an example.
 

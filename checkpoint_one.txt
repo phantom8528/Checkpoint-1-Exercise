@@ -97,6 +97,8 @@ print("Gabriel's Full Name is: " + gabrielFirstDict["Name"])
 
 13) What type of values can be in a Python dictionary?
 
+Values inside a dictionary can be of any data type.
+
 
 14) What type of values can be in a Python list?
 

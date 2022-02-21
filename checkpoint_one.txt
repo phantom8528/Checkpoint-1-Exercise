@@ -8,6 +8,9 @@ varies, depending on the program that you're using.
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 
+Method 1: " # " before each line of code 
+Method 2:  Using TRIPLE QUOTES on each side of each comment. This enables the user to write on multiple lines.
+
 
 3) If the name of a file is app.py what do we type in the command line to tell our computer to run it?
 

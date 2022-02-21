@@ -107,6 +107,8 @@ A python list can store any type of value.
 
 15) What data type are True and False?
 
+Booleans
+
 
 16) What language does your computer understand?
 

@@ -24,6 +24,13 @@ By using the print() function.
 
 5) What can we use to save a value for later use in our code? Provide an example.
 
+In order to save a value for later, we use a "Variable", which can be referenced for frequent usage throughout the 
+program. Here's an example. 
+
+Ex. Say you wanted to reference the number 4 in a mathematical operation. 
+I would reference it by assigning to the variable frequentNumber = 4
+this will allow the computer to understand that this is the variable that I'm trying to access.
+
 
 6) What can I do to prevent certain files and directories from being tracked by git?
 

@@ -168,6 +168,27 @@ print ("Hello" + " " + "World")
             -> clips
             -> app.py
 
+Following is what we would use to create this command structure (navigations included)
+pwd 
+mkdir projects 
+ls 
+cd projects 
+mkdir instagram; mkdir tiktok;
+ls
+cd instagram
+touch app.py
+mkdir images
+ls
+cd images
+touch profile_image.jpg
+cd ..
+cd tiktok
+mkdir clips
+touch app.py
+cd ..
+cd ..
+
+The last command should leave you on the desktop
 
 25) What is the path to profile_image.jpg?
 

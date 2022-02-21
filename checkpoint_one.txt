@@ -66,6 +66,8 @@ We use the operator " = ".
 
 9) What's the key difference between git revert and git reset?
 
+Git revert maintains the history of changes made, while git reset wipes it out completely. 
+
 
 10) What's the key difference between Python lists and tuples?
 

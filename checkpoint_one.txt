@@ -303,6 +303,10 @@ print ("The New List is: ", sampleList)
 
 40) How can I access a value in a Python dictionary?
 
+By printing the name of the dictionary in parentheses, followed by the LHS value key in square brackets
+
+Ex. print (theDict ["LHS Value Key])
+
 
 41) How can I remove a value from a Python dictionary?
 

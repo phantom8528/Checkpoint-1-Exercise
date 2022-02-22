@@ -259,6 +259,10 @@ In python, this is done by commenting out the line / lines of code that you don'
 
 34) What can I do to work on my primary code, but not mess it up? Provide an example.
 
+Using the tools provided by git, start a new branch (commannd: git checkout -b [NAME OF THE BRANCH]).
+This will allow you to work out what ever problems or ideas you may have, without compromising the 
+primary code base.
+
 
 35) What do I do in order to make sure I have the latest code on my machine?
 

@@ -288,6 +288,8 @@ By typing the command "git log" or "git log --oneline", if you don't want to see
 
 38) How can I add a value to a Python list?
 
+The append() function adds a value to the end of a list, the insert() function adds a value to the frontend
+of a list. The extend() function can add another list onto an existing list.
 
 39) How can I remove a value from a Python list?
 

@@ -337,6 +337,9 @@ print(testDict)
 
 43) What is a pull request? Describe it in detail.
 
+A pull request (initiated by the command git pulll) is when you update your repository
+on your local branch with code uploaded to the remote repository by other developers.
+
 
 44) Why do we use services like Github?
 

@@ -211,6 +211,10 @@ print("Hello, " + x.capitalize()) #<-- the first letter is capitalized
 
 28) What method can I use to change this string from "TROY" to "troy"?
 
+print ("Enter Your Name: ")
+x = input() #<-- TROY is provided as a input
+print (x.swapcase()) #<-- prints the input in all lower case letters
+
 
 29) How can I check to see if all of the characters in a string are numbers/digits?
 

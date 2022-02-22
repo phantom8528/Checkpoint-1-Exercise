@@ -266,6 +266,9 @@ primary code base.
 
 35) What do I do in order to make sure I have the latest code on my machine?
 
+Pull up the terminal. Navigate to the repository on your local machine, and type in the command 
+"git pull". This will update your repository with all the changes made to the code base while you were absent. 
+
 
 36) How can I accept user input into my Python code?
 

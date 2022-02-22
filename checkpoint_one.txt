@@ -236,6 +236,14 @@ print('Length:', len(lst))
 
 31) What are the Python comparison operators? List each and describe.
 
+== | If the  values are equal and the condition becomes TRUE
+!= | If values of two operands are NOT equal, the condition becomes TRUE
+<> | If values of two operands are NOT equal, the condition becomes TRUE
+>  | If left operand is greater than the right operand, the condition becomes TRUE
+<  | If right operand is greater than the left operand, the condition becomes TRUE
+>= | If left operand is greater than or equal to the right operand, the condition becomes TRUE
+<= | If left operand is less than or equal to the right operand, the condition becomes TRUE
+
 
 32) What are the Python logical operators? List each and describe.
 

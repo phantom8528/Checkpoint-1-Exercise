@@ -197,6 +197,9 @@ The last command should leave you on the desktop
 
 26) What commands can I use to get from the clips directory to the images directory? (write every command line by line):
 
+cd .. <-- In order to get out of the clips directory
+cd instagram/images <-- to go directly to the images directory
+
 
 27) What method can I use to change this string from "troy" to "Troy"? 
 

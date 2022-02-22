@@ -310,6 +310,13 @@ Ex. print (theDict ["LHS Value Key])
 
 41) How can I remove a value from a Python dictionary?
 
+Using the .pop() will remove the element from the dictionary.
+
+ex. sampleDict.pop("Element 1")
+
+Using the .clear() function will clear out the dictionary completely
+
+ex. sampleDict.clear()
 
 42) How can I change a value in a Python dictionary?
 

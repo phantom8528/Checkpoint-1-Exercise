@@ -294,6 +294,13 @@ of a list. The extend() function can add another list onto an existing list.
 39) How can I remove a value from a Python list?
 
 
+By using the .remove() function. 
+Ex. 
+
+sampleList = [red, blue, green]
+sampleList.remove(red) #<-- This removes the item red from the list before it is printed
+print ("The New List is: ", sampleList)
+
 40) How can I access a value in a Python dictionary?
 
 

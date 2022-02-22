@@ -272,6 +272,14 @@ Pull up the terminal. Navigate to the repository on your local machine, and type
 
 36) How can I accept user input into my Python code?
 
+By using the input() function. 
+ex. 
+
+print("Enter Your Name: ")
+x = input()
+print ("Hello" + x)
+
+
 
 37) How can I see all of my git commits?
 

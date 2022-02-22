@@ -247,6 +247,10 @@ print('Length:', len(lst))
 
 32) What are the Python logical operators? List each and describe.
 
+AND | If both operands are TRUE, than the condition becomes TRUE
+OR  | If any of the two operands are non-zero, then the condition becomes TRUE
+NOT | Used to reverse the logical state of an operand
+
 
 33) How can we decide to run one piece of code versus another? Provide an example.
 

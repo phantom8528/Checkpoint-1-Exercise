@@ -225,6 +225,14 @@ print(y)
 
 30) How can I split a string into a list with each value in the list being a line of the string?
 
+string = "Red, Blue, Green"
+
+lst = string.split(',')
+
+print(lst)
+print('Element types:', type(lst[0]))
+print('Length:', len(lst))
+
 
 31) What are the Python comparison operators? List each and describe.
 

@@ -320,6 +320,20 @@ ex. sampleDict.clear()
 
 42) How can I change a value in a Python dictionary?
 
+You can change the value of a specific item by referring to its key name
+ex. 
+
+#<--- Question 42 
+
+testDict = {
+    "item1": "blue",
+    "item2": "red",
+    "item3": "green"
+    }
+    
+testDict ["item1"] = "orange" #<-- Replaces blue with orange
+print(testDict)
+
 
 43) What is a pull request? Describe it in detail.
 

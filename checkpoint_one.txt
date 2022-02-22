@@ -254,6 +254,8 @@ NOT | Used to reverse the logical state of an operand
 
 33) How can we decide to run one piece of code versus another? Provide an example.
 
+In python, this is done by commenting out the line / lines of code that you don't want to compile
+
 
 34) What can I do to work on my primary code, but not mess it up? Provide an example.
 

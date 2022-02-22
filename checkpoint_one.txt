@@ -218,6 +218,10 @@ print (x.swapcase()) #<-- prints the input in all lower case letters
 
 29) How can I check to see if all of the characters in a string are numbers/digits?
 
+print ("Type in a Number: ")
+x = input() #<-- Allows user to type in the name of the user
+y = x.isnumeric() #<-- verifies whether or not y is numeric
+print(y)
 
 30) How can I split a string into a list with each value in the list being a line of the string?
 

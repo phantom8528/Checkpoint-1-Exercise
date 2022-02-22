@@ -283,6 +283,8 @@ print ("Hello" + x)
 
 37) How can I see all of my git commits?
 
+By typing the command "git log" or "git log --oneline", if you don't want to see all the details.
+
 
 38) How can I add a value to a Python list?
 

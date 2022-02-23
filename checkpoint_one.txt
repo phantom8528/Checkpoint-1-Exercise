@@ -350,6 +350,20 @@ projects and teams reliably.
 
 45) How can I create a git branch?
 
+First, you must confirm that your master branch is being trakced via git. 
+Second, type the following command while in the master branch:
+
+git branch [NAME OF THE BRANCH]
+or
+git checkout -b [NAME OF THE BRANCH]
+
+The second command will take you directly to the branch after it's conception, while the first command
+will simply create the branch. 
+If you choose to use the first command you'll have the transition to the branch using the second command below:
+
+git checKout [NAME OF THE BRANCH YOU JUST CREATED]
+
+
 
 46) How can I switch to another branch?
 

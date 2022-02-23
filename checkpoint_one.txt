@@ -343,6 +343,10 @@ on your local branch with code uploaded to the remote repository by other develo
 
 44) Why do we use services like Github?
 
+Services like github are more reliable repositories for a given project's version conrol. 
+There location in the cloud, accompanied by there computing power, allows individuals to scale 
+projects and teams reliably.
+
 
 45) How can I create a git branch?
 

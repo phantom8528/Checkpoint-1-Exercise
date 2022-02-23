@@ -371,6 +371,8 @@ By typing the command: git checkout [NAME OF BRANCH]
 
 47) What happens if multiple engineers try to change the same area of a codebase from different points in time?
 
+A merge conflict will take place. The team members responsible for code review, or the project leader, will be 
+responsible for deciding which piece of code will be merged with the master code base.
 
 48) What are the 3 stages of of tracking our work with git?
 

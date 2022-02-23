@@ -376,6 +376,11 @@ responsible for deciding which piece of code will be merged with the master code
 
 48) What are the 3 stages of of tracking our work with git?
 
+The three stages are the following:
+1. Working Tree - where all the work gets done.
+2. Staging
+3. Commit
+
 
 49) What are the commands we'd use, in order, to move our changes through these stages?
 

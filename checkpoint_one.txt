@@ -367,6 +367,7 @@ git checKout [NAME OF THE BRANCH YOU JUST CREATED]
 
 46) How can I switch to another branch?
 
+By typing the command: git checkout [NAME OF BRANCH]
 
 47) What happens if multiple engineers try to change the same area of a codebase from different points in time?
 

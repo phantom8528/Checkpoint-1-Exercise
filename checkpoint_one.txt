@@ -384,5 +384,8 @@ The three stages are the following:
 
 49) What are the commands we'd use, in order, to move our changes through these stages?
 
+Working Tree | simply create the file inside of the local/remote repository that's being tracked by git
+Staging      | git add [NAME OF FILE] or git add . 
+Commit       | git commit -m "[MESSAGE CONCERNING THIS COMMIT]"
 
 50) Is spacing in my Python code important? Why?

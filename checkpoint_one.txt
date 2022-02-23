@@ -389,3 +389,6 @@ Staging      | git add [NAME OF FILE] or git add .
 Commit       | git commit -m "[MESSAGE CONCERNING THIS COMMIT]"
 
 50) Is spacing in my Python code important? Why?
+
+Yes. Spacing in python, or any other backend language, is important to maintains
+because it's as much a part of the syntax as the words themselves. 
